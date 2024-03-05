@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+本项目旨在更加深入学习GitHub的项目托管实践。
 <!--
 **boommal/boommal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
